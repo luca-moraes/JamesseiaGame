@@ -1,6 +1,6 @@
 # Jamesseia A Guerra dos memes
 
-Bem-vindo ao **Jamesseia: A Guerra dos memes**, um emocionante jogo desenvolvido em 2022 na Unity, onde você assume o papel do destemido James da salada de fruta, que precisa ajudar seu Mestre Edinaldo Pereira a recuperar os seus óculos que foram roubados pelo maligno vilão NeNey.
+Bem-vindo ao **Jamesseia: A Guerra dos memes**, um emocionante jogo desenvolvido em 2023 na Unity, onde você assume o papel do destemido James da salada de fruta, que precisa ajudar seu Mestre Edinaldo Pereira a recuperar os seus óculos que foram roubados pelo maligno vilão NeNey.
 
 ## Como Jogar
 
