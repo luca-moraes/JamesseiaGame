@@ -28,4 +28,4 @@ Para jogar Jamesseia, você precisará ter o Unity 2022.0f1 instalado no seu com
 
 ## Autores
 
-Criado Por Vinicius Moura Rodrigues, Kaio Henrique e Lucas Moraes.
+Criado por: Vinicius Moura Rodrigues, Kaio Henrique e Lucas Moraes.
